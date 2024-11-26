@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(13, 94, 67);
+  text-align: center;
+}
+h3 {
+  color: rgb(0, 0, 0);
+  font-size: 60px;
+  display: inline-block;
+  border-radius: 10px;
+  background-color: rgb(208, 151, 81);
+  padding: 30px;
+  margin: 50px;
+  box-shadow: 10px 10px 40px rgba(0, 0, 0);
+}
+#clock {
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  border-radius: 10px;
+  background-color: rgb(208, 151, 81);
+  padding: 30px;
+  margin: 50px;
+  box-shadow: 10px 10px 40px rgba(0, 0, 0);
+}
